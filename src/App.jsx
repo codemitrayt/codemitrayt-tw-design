@@ -1,7 +1,6 @@
 import React from "react";
 import CircularProgressBar from "./components/circular-progress-bar";
 import GlowingCornerHoverEffects from "./components/glowing-corner-hover-effect";
-import { Spotlight } from "./components/spotlight-effect";
 
 const App = () => {
   return (
