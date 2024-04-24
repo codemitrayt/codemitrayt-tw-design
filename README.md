@@ -15,7 +15,12 @@ import CircularProgressBar from "./components/circular-progress-bar";
 
 const App = () => {
   return (
-    <CircularProgressBar title="@codemitrayt" color="#16a34a" percentage={50} />
+    <CircularProgressBar
+      title="@codemitrayt"
+      color="#16a34a"
+      percentage={50}
+      className="some tw classes"
+    />
   );
 };
 ```
