@@ -8,4 +8,4 @@
 
   <img src="./public/circular-progress-bar.png" alt="logo"/>
 
-- [Component Code](https://github.com/codemitrayt/codemitray-tw-design/src/components/circular-progress-bar.jsx)
+- [Component Code](https://github.com/codemitrayt/codemitrayt-tw-design/blob/main/src/components/circular-progress-bar.jsx)
