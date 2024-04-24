@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { cn } from "../utils";
+import { cn } from "../../utils";
 
 const CircularProgressBar = ({ className, title, percentage, color }) => {
   const [deg, setDeg] = useState(0);
